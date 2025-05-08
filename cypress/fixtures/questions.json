@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is React?",
+    "answers": ["Library", "Framework", "Language"],
+    "correctAnswer": "Library"
+  },
+  {
+    "question": "What does MERN stand for?",
+    "answers": [
+      "MongoDB, Express, React, Node",
+      "MySQL, Express, React, Node",
+      "MongoDB, Ember, Redux, Node"
+    ],
+    "correctAnswer": "MongoDB, Express, React, Node"
+  }
+]
